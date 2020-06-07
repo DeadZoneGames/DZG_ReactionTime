@@ -29,6 +29,12 @@ At the end of each game, the player’s final score will be displayed.
 For multiplayer games, the player with the highest score wins.
 
 Notes:
+06/07/2020
+- Fixed multiplayer support
+- Fixed missing sound and background music
+- Fixed InGame Menu with instructions (Press ESC or 'M' for InGame Menu)
+- Fixed ability to reset car when stuck
+
 05/31/2020
 - Initial Release
 - Multiplayer mode is currently under development.
